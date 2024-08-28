@@ -11,7 +11,11 @@ Model Evaluation: The model's performance is evaluated using accuracy, precision
 Technologies Used:
 
 •	Python
+
 •	scikit-learn for machine learning
+
 •	wordcloud for visualization
+
 •	pandas and numpy for data manipulation
+
 •	matplotlib for plotting
