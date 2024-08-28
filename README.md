@@ -3,9 +3,13 @@ This project explores the application of text mining techniques to classify SMS 
 
 Key Features:
 Data Exploration: The dataset is thoroughly explored to understand the distribution of spam and ham messages.
+
 Text Preprocessing: The text data undergoes preprocessing steps such as tokenization, removal of stop words, and normalization to prepare it for modeling.
+
 Model Development: A machine learning model is trained to classify the SMS messages using various text mining and feature extraction techniques.
+
 Word Cloud Visualization: A word cloud is generated to visually represent the most frequent words in the spam messages, highlighting common spam indicators.
+
 Model Evaluation: The model's performance is evaluated using accuracy, precision, recall, and other relevant metrics to ensure reliable classification.
 
 Technologies Used:
