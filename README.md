@@ -9,6 +9,7 @@ Word Cloud Visualization: A word cloud is generated to visually represent the mo
 Model Evaluation: The model's performance is evaluated using accuracy, precision, recall, and other relevant metrics to ensure reliable classification.
 
 Technologies Used:
+
 •	Python
 •	scikit-learn for machine learning
 •	wordcloud for visualization
